@@ -1,0 +1,12 @@
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testBasicListenerWithUnexpectedMessage,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testConstructor,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testGenericsListener,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testGenericsListenerDefaultConstructorThrows,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testOnMessageWithExpectedMessage,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testParametrizedConstructor,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testSequenceListener,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testSequenceListenerWithIncorrectOrder,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.event.AbstractAISMessageListenerTest.testSequenceListenerWithMixedOrder,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.parser.AISMessageFactoryTest.testCreate,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.parser.AISMessageFactoryTest.testCreateWithIncorrectOrder,True,0,True,9
+ktuukkan/marine-api,af00038,.,net.sf.marineapi.ais.parser.AISMessageFactoryTest.testCreateWithTwo,True,0,True,9

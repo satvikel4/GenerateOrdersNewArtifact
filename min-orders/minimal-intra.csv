@@ -1,0 +1,47 @@
+Activiti/Activiti,b11f757,./activiti-spring-boot-starter,4,{'7', '0', '1', '5'},{'7', '0', '1', '5'},16,15,16
+Apache/Struts,13d9053,./plugins/portlet,3,{'0', '1', '2'},{'0', '2'},4,4,4
+alibaba/fastjson,5c6d6fd,.,2,{'0'},{'1152'},2,2,2
+apache/dubbo,737f7a7,./dubbo-cluster,3,{'0'},{'3', '2'},3,3,3
+apache/dubbo,737f7a7,./dubbo-common,2,{'4'},{'0'},1,1,1
+apache/dubbo,737f7a7,./dubbo-config/dubbo-config-api,37,{'0', '2'},{'6', '37', '0', '9', '33', '2', '35', '14', '17', '30', '34', '25', '11', '22', '20', '5', '18', '32', '19', '28', '27', '4', '29', '31', '7', '23', '13', '21', '15', '8', '26', '3', '10', '16', '36', '12', '24'},37,37,37
+apache/dubbo,737f7a7,./dubbo-filter/dubbo-filter-cache,2,{'0'},{'1'},1,1,1
+apache/dubbo,737f7a7,./dubbo-rpc/dubbo-rpc-api,2,{'1'},{'0'},2,2,2
+apache/dubbo,737f7a7,./dubbo-rpc/dubbo-rpc-dubbo,3,{'0'},{'1', '2'},2,2,2
+apache/dubbo,737f7a7,./dubbo-serialization/dubbo-serialization-fst,2,{'0'},{'1'},1,1,1
+apache/hadoop,cc2babc,./hadoop-common-project/hadoop-auth,2,{'5'},{'0'},1,1,1
+apache/hadoop,cc2babc,./hadoop-hdfs-project/hadoop-hdfs-nfs,5,{'7', '0', '3', '6'},{'0', '1'},28,28,28
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app,2,{'0', '1'},{'0', '1'},4,4,4
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core,3,{'0', '14'},{'0', '1'},5,5,5
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs,2,{'9'},{'0'},2,2,2
+c2mon/c2mon,d80687b,./c2mon-server/c2mon-server-elasticsearch,2,{'0'},{'4'},1,1,1
+ctco/cukes,b483e1a,./cukes-http,2,{'0'},{'1'},1,1,1
+doanduyhai/Achilles,e3099bd,./integration-test-2_1,9,{'4', '1', '8', '7', '0', '3', '9', '10', '13'},{'0', '1'},9,9,9
+doanduyhai/Achilles,e3099bd,./integration-test-2_2,8,{'6', '4', '1', '7', '3', '2', '5'},{'0'},7,7,7
+doanduyhai/Achilles,e3099bd,./integration-test-3_10,3,{'1', '2'},{'0'},2,2,2
+doanduyhai/Achilles,e3099bd,./integration-test-3_7,6,{'4', '1', '0', '3', '2', '5'},{'0', '1'},6,6,6
+dropwizard/dropwizard,07dfaed,./dropwizard-logging,False,{'0'},set(),1,0,1
+elasticjob/elastic-job-lite,b022898,./elastic-job-lite-core,2,{'0', '75'},{'0', '75'},3,3,3
+fhoeben/hsac-fitnesse-fixtures,a64c18d,.,2,{'0'},{'6'},1,1,1
+hexagonframework/spring-data-ebean,dd11b97,.,False,{'0'},set(),1,0,1
+jhipster/jhipster-registry,00db366,.,2,{'0'},{'2'},1,1,1
+kevinsawicki/http-request,2d62a3e,./lib,4,{'0', '4', '1'},{'32', '0'},25,25,25
+ktuukkan/marine-api,af00038,.,2,{'0'},{'9'},12,12,12
+openpojo/openpojo,9badbcc,.,2,{'0'},{'80'},3,3,3
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot,3,{'0'},{'92', '41'},2,2,2
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-actuator-autoconfigure,2,{'0', '3'},{'0', '3'},8,8,8
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-test,2,{'0'},{'1'},1,1,1
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-test-autoconfigure,2,{'1'},{'0'},4,4,4
+spring-projects/spring-data-envers,5637994,.,False,{'0'},set(),2,0,2
+spring-projects/spring-ws,e8d89c9,./spring-ws-core,12,{'19', '6', '15', '4', '31', '0', '20', '33', '13', '18', '30'},{'0', '1'},15,15,15
+spring-projects/spring-ws,e8d89c9,./spring-ws-security,2,{'0'},{'32'},2,1,2
+tbsalling/aismessages,7b0c4c7,.,3,{'0', '1'},{'0', '2'},2,2,2
+tools4j/unix4j,367da7d,./unix4j-core/unix4j-command,2,{'0'},{'2'},1,1,1
+vmware/admiral,e4b0293,./compute,2,{'0'},{'10'},1,1,1
+vmware/admiral,e4b0293,./request,2,{'0'},{'1'},1,1,1
+wikidata/wikidata-toolkit,20de6f7,./wdtk-dumpfiles,2,{'0'},{'2'},3,2,3
+wikidata/wikidata-toolkit,20de6f7,./wdtk-util,2,{'0'},{'2'},2,2,2
+wildfly/wildfly,b19048b,./naming,5,{'6', '4', '1', '0', '2'},{'0', '6'},44,43,44
+wildfly/wildfly,b19048b,./security/subsystem,2,{'0'},{'4'},1,1,1
+wro4j/wro4j,185ab60,./wro4j-core,3,{'50', '0'},{'50', '0', '1'},15,15,15
+wso2/carbon-apimgt,a82213e,./components/apimgt/org.wso2.carbon.apimgt.core,2,{'0'},{'1'},1,1,1
+zalando/riptide,8277e11,./riptide-spring-boot-starter,3,{'0'},{'3', '1'},2,2,2

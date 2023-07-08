@@ -1,0 +1,45 @@
+Activiti/Activiti,b11f757,./activiti-spring-boot-starter,6,{'0', '136', '114', '363', '475'},{'0', '411', '136', '363', '475'},16,16,16
+apache/dubbo,737f7a7,./dubbo-cluster,3,{'0'},{'880', '2016'},3,3,3
+apache/dubbo,737f7a7,./dubbo-common,2,{'0'},{'3781'},1,1,1
+apache/dubbo,737f7a7,./dubbo-config/dubbo-config-api,37,{'44', '0'},{'506', '220', '308', '770', '66', '462', '44', '396', '484', '374', '0', '638', '682', '572', '528', '792', '176', '242', '550', '616', '110', '132', '440', '418', '660', '286', '726', '748', '154', '264', '198', '88', '594', '352', '330', '704', '814'},37,37,37
+apache/dubbo,737f7a7,./dubbo-filter/dubbo-filter-cache,2,{'0'},{'7'},1,1,1
+apache/dubbo,737f7a7,./dubbo-rpc/dubbo-rpc-api,2,{'1'},{'0'},2,2,2
+apache/dubbo,737f7a7,./dubbo-rpc/dubbo-rpc-dubbo,3,{'0'},{'590', '52'},2,2,2
+apache/dubbo,737f7a7,./dubbo-serialization/dubbo-serialization-fst,2,{'0'},{'8'},1,1,1
+apache/hadoop,cc2babc,./hadoop-common-project/hadoop-auth,2,{'3315'},{'0'},1,1,1
+apache/hadoop,cc2babc,./hadoop-hdfs-project/hadoop-hdfs-nfs,4,{'1946', '0', '1665'},{'0', '281'},28,28,28
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app,2,{'0'},{'2786'},4,4,4
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core,3,{'0', '18862'},{'0', '1083'},5,5,5
+apache/hadoop,cc2babc,./hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs,2,{'13473'},{'0'},2,2,2
+Apache/Struts,13d9053,./plugins/portlet,3,{'261', '0'},{'244', '0'},4,4,4
+c2mon/c2mon,d80687b,./c2mon-server/c2mon-server-elasticsearch,2,{'0'},{'21'},1,1,1
+ctco/cukes,b483e1a,./cukes-http,2,{'0'},{'1'},1,1,1
+doanduyhai/Achilles,e3099bd,./integration-test-2_1,9,{'614', '613', '619', '620', '617', '0', '611', '618', '16599'},{'0', '611'},9,9,9
+doanduyhai/Achilles,e3099bd,./integration-test-2_2,8,{'42', '49', '28', '63', '70', '56', '35'},{'0'},7,7,7
+doanduyhai/Achilles,e3099bd,./integration-test-3_10,3,{'4', '1'},{'0'},2,2,2
+doanduyhai/Achilles,e3099bd,./integration-test-3_7,6,{'3', '5', '4', '2', '1', '0'},{'0', '1'},6,6,6
+dropwizard/dropwizard,07dfaed,./dropwizard-logging,2,{'0'},{'76'},1,1,1
+elasticjob/elastic-job-lite,b022898,./elastic-job-lite-core,4,{'0'},{'0', '76', '9443', '1710'},3,3,3
+fhoeben/hsac-fitnesse-fixtures,a64c18d,.,2,{'0'},{'664'},1,1,1
+hexagonframework/spring-data-ebean,dd11b97,.,2,{'0'},{'293'},1,1,1
+jhipster/jhipster-registry,00db366,.,2,{'0'},{'28'},1,1,1
+kevinsawicki/http-request,2d62a3e,./lib,4,{'0', '2', '8'},{'0', '64'},25,25,25
+ktuukkan/marine-api,af00038,.,2,{'0'},{'16882'},12,12,12
+openpojo/openpojo,9badbcc,.,4,{'0'},{'351184', '491406', '138055'},3,3,3
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-actuator-autoconfigure,3,{'0'},{'438', '1120'},8,8,8
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-test-autoconfigure,5,{'103', '5', '15', '126'},{'0'},4,4,4
+spring-projects/spring-boot,daa3d45,./spring-boot-project/spring-boot-test,2,{'0'},{'952'},1,1,1
+spring-projects/spring-data-envers,5637994,.,2,{'0'},{'5'},2,2,2
+spring-projects/spring-ws,e8d89c9,./spring-ws-core,15,{'955', '964', '952', '967', '994', '1018', '1026', '1002', '949', '1010', '978', '958', '986', '961', '0'},{'978', '0'},15,15,15
+spring-projects/spring-ws,e8d89c9,./spring-ws-security,3,{'0'},{'10899', '10902'},2,2,2
+tbsalling/aismessages,7b0c4c7,.,2,{'0'},{'20'},2,2,2
+tools4j/unix4j,367da7d,./unix4j-core/unix4j-command,2,{'0'},{'1623'},1,1,1
+vmware/admiral,e4b0293,./compute,2,{'0'},{'2070'},1,1,1
+vmware/admiral,e4b0293,./request,2,{'0'},{'1270'},1,1,1
+wikidata/wikidata-toolkit,20de6f7,./wdtk-dumpfiles,2,{'0'},{'521'},3,3,3
+wikidata/wikidata-toolkit,20de6f7,./wdtk-util,2,{'0'},{'2'},2,2,2
+wildfly/wildfly,b19048b,./naming,6,{'1133', '449', '161', '1769', '0'},{'1428', '0'},44,44,44
+wildfly/wildfly,b19048b,./security/subsystem,2,{'0'},{'159'},1,1,1
+wro4j/wro4j,185ab60,./wro4j-core,6,{'21536', '0'},{'26721', '0', '5238', '6334', '10377'},15,15,15
+wso2/carbon-apimgt,a82213e,./components/apimgt/org.wso2.carbon.apimgt.core,2,{'0'},{'58'},1,1,1
+zalando/riptide,8277e11,./riptide-spring-boot-starter,3,{'0', '4'},{'0', '1'},2,2,2
